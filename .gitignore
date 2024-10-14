@@ -16,6 +16,5 @@
 gotty/gotty
 gotty/bindata
 gotty/builds
-gotty/js/node_modules/*
 gotty/.idea/
 gotty/_vendor-*
